@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
-
+ 
 # Konfigurasi Halaman Streamlit
 st.set_page_config(
     page_title="Portal Kas Kelas Sains Data 1A",
